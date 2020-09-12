@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Negocio
 {
-    public class Class1
+    public class CategoriaNegocio
     {
+    }
+    public class MarcaNegocio
+    {
+
     }
 }
